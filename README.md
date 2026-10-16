@@ -62,7 +62,7 @@ The portals' code belongs to NDMA and is not public.
 
 #### Education
 
-Bachelor of GIS and Remote Sensing (Atmospheric Sciences and Meteorology), COMSATS University Islamabad, Oct 2022 – Jun 2026, CGPA 3.73
+Bachelor of Science in Geo-informatics, PMAS Arid Agriculture University, Rawalpindi, 2022 – 2026 (completed April 2026), CGPA 3.73
 
 #### Certifications
 
