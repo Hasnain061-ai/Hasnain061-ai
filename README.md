@@ -1,9 +1,8 @@
 ### Muhammad Hasnain
 
-GeoAI developer and meteorologist at the **National Disaster Management Authority (NDMA), Pakistan**.
-Reading the Earth from space and the sky from data, then turning it into elegant agentic systems.
+**GeoAI Developer & Meteorologist** | Reading the Earth from space and the sky from data, then turning it into elegant agentic systems | Agentic AI · LLMs · Remote Sensing · Python · GrADS · CDO · GIS
 
-**Portfolio:** [hasnain061-ai.github.io](https://hasnain061-ai.github.io) · **LinkedIn:** [muhammad-hasnain](https://www.linkedin.com/in/muhammad-hasnain-87450033a/) · **Email:** ranahasnain061@gmail.com
+**Portfolio:** [hasnain061-ai.github.io](https://hasnain061-ai.github.io) · **LinkedIn:** [muhammad-hasnain](https://www.linkedin.com/in/muhammad-hasnain-87450033a/) · **Email:** ranahasnain061@gmail.com · Islamabad, Pakistan
 
 ---
 
@@ -26,11 +25,57 @@ A portal for NDMA that shows how heat in Pakistan has changed since 1980, and wh
 
 The portals' code belongs to NDMA and is not public.
 
+**More Geo-AI projects:** Flood Inundation Monitoring portal (NDMA, AI agent), Drought Monitoring portal (PMD, AI agent), Crop Water Requirement portal (NDMA), Coastal Hazard portal (NDMA), real-estate site selection with machine learning, network analysis for an Ohio county and for Germany in Python.
+
+#### Experience
+
+| When | Role | Where |
+|---|---|---|
+| Jul 2026 – now | Employee, full-time | National Disaster Management Authority (NDMA) Pakistan, Islamabad |
+| Jan – Jun 2026 | Intern | Senate of Pakistan, Parliament House, Islamabad |
+| Jul 2025 – now | Image Annotator, part-time | TerraSkyAI Inc., remote |
+| 2025, 3 months | Meteorology Intern | Pakistan Meteorological Department |
+| 2024, 3 months | Meteorology Intern | Pakistan Meteorological Department |
+| 2023, 1 year | GIS Analyst | Geo Mapping Solutions Pvt Ltd, Islamabad |
+
+- **NDMA:** building the NDMA Cloud-based Early Warning System; bias-corrected the 7-day heatwave outlook on 111 PMD stations
+- **Senate of Pakistan:** a Python tool that replaced manual Excel payment processing, from hours to seconds
+- **TerraSkyAI:** labelling image data used to train and evaluate computer vision models
+- **PMD 2025:** a Python model that automates drought mapping across Pakistan from several indices
+- **PMD 2024:** satellite data for forecasts and extreme-weather reports, an Android app with crop guidance for farmers, a rainfall prediction model in Python
+- **Geo Mapping Solutions:** multispectral and hyperspectral processing, parcel digitising, georeferencing Mussavi sheets, geodatabases and topology checks
+
+#### Research
+
+- Localized changes in heatwave dynamics across Pakistan and large-scale climate patterns
+- Heatwaves triggering flash droughts across Pakistan, from remote-sensing indicators
+- Integrated drought mapping across Pakistan from several indices
+- Land use and land cover change in the Potohar region and its causes
+- A decision support system for farmers by agro-climatic region (Android app)
+
 #### Tools
 
 - **Remote sensing and GIS:** Google Earth Engine, ArcGIS Pro, QGIS, ENVI, Pix4Dmapper
 - **Climate and weather:** GrADS, CDO, DSSAT, heatwave and drought indices
-- **AI:** agentic AI, LLMs, machine learning, Roboflow
+- **AI:** agentic AI, LLMs, machine learning, Roboflow, data annotation
 - **Software:** Python, R, FastAPI, Leaflet, Mapbox GL JS
 
-BS GIS and Remote Sensing, COMSATS University Islamabad (2026). Based in Islamabad.
+#### Education
+
+Bachelor of GIS and Remote Sensing (Atmospheric Sciences and Meteorology), COMSATS University Islamabad, Oct 2022 – Jun 2026, CGPA 3.73
+
+#### Certifications
+
+- UNESCO: flood hazard and exposure mapping
+- EO College: machine learning for Earth observation
+- Esri: cartography; spatial analysis
+- UNITAR: climate change adaptation; climate champion
+- Microsoft and LinkedIn: generative AI; data analysis
+- LinkedIn Learning: introduction to artificial intelligence
+- Geo University: ortho-rectification
+
+#### Training and volunteering
+
+- **Workshops:** DSSAT crop modelling, disaster management training on early warning, AGRISAT satellite data
+- **Volunteering:** Pakistan Minerals Investment Forum 2025, Pakistan Learning Festival, HRCP, Federal Ministry of Education (DWE)
+- **Languages:** English C1 (spoken B2), German A1
