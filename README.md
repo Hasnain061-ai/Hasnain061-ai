@@ -2,7 +2,7 @@
 
 **GeoAI Developer & Meteorologist** | Reading the Earth from space and the sky from data, then turning it into elegant agentic systems | Agentic AI · LLMs · Remote Sensing · Python · GrADS · CDO · GIS
 
-**Portfolio:** [hasnain061-ai.github.io](https://hasnain061-ai.github.io) · **LinkedIn:** [muhammad-hasnain](https://www.linkedin.com/in/muhammad-hasnain-87450033a/) · **Email:** ranahasnain061@gmail.com · Islamabad, Pakistan
+**Portfolio:** [hasnain061-ai.github.io](https://hasnain061-ai.github.io) · **CV:** [download PDF](https://hasnain061-ai.github.io/assets/Muhammad_Hasnain_CV.pdf) · **LinkedIn:** [muhammad-hasnain](https://www.linkedin.com/in/muhammad-hasnain-87450033a/) · **Email:** ranahasnain061@gmail.com · Islamabad, Pakistan
 
 ---
 
