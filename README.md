@@ -72,9 +72,9 @@ Bachelor of Science in Geo-informatics, PMAS Arid Agriculture University, Rawalp
 - [Career Essentials in Generative AI](https://hasnain061-ai.github.io/assets/certificates/microsoft-linkedin-generative-ai.pdf), Microsoft and LinkedIn
 - [Career Essentials in Data Analysis](https://hasnain061-ai.github.io/assets/certificates/microsoft-linkedin-data-analysis.pdf), Microsoft and LinkedIn
 - [Introduction to Artificial Intelligence](https://hasnain061-ai.github.io/assets/certificates/linkedin-intro-ai.pdf), LinkedIn Learning
-- Cartography; Going Places with Spatial Analysis, Esri
+- [Cartography](https://hasnain061-ai.github.io/assets/certificates/esri-cartography.pdf) and [Going Places with Spatial Analysis](https://hasnain061-ai.github.io/assets/certificates/esri-spatial-analysis.pdf), Esri (issued as Rana Hasnain)
+- [Orthorectification of Aerial Imagery through OrthoPhoto.io](https://hasnain061-ai.github.io/assets/certificates/geo-university-orthorectification.jpg), Geo University (issued as Rana Hasnain)
 - Introduction to Machine Learning for Earth Observation, EO College
-- Ortho-rectification of Aerial Imagery through Orthophoto.io, Geo University
 
 #### Training and volunteering
 
