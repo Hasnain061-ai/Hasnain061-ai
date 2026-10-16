@@ -66,13 +66,15 @@ Bachelor of GIS and Remote Sensing (Atmospheric Sciences and Meteorology), COMSA
 
 #### Certifications
 
-- UNESCO: flood hazard and exposure mapping
-- EO College: machine learning for Earth observation
-- Esri: cartography; spatial analysis
-- UNITAR: climate change adaptation; climate champion
-- Microsoft and LinkedIn: generative AI; data analysis
-- LinkedIn Learning: introduction to artificial intelligence
-- Geo University: ortho-rectification
+- [Flood Hazard and Exposure Mapping](https://hasnain061-ai.github.io/assets/certificates/unesco-flood-hazard-exposure-mapping.pdf), UNESCO ([verify](https://openlearning.unesco.org/certificates/3bda14d9d78f40928f95179bdd4e63bd))
+- [Strengthening Climate Adaptation and Resilience](https://hasnain061-ai.github.io/assets/certificates/unitar-climate-adaptation-resilience.pdf), UNITAR, UN CC:Learn and GIZ
+- [Becoming a Climate Champion](https://hasnain061-ai.github.io/assets/certificates/unitar-climate-champion.pdf), UNITAR
+- [Career Essentials in Generative AI](https://hasnain061-ai.github.io/assets/certificates/microsoft-linkedin-generative-ai.pdf), Microsoft and LinkedIn
+- [Career Essentials in Data Analysis](https://hasnain061-ai.github.io/assets/certificates/microsoft-linkedin-data-analysis.pdf), Microsoft and LinkedIn
+- [Introduction to Artificial Intelligence](https://hasnain061-ai.github.io/assets/certificates/linkedin-intro-ai.pdf), LinkedIn Learning
+- Cartography; Going Places with Spatial Analysis, Esri
+- Introduction to Machine Learning for Earth Observation, EO College
+- Ortho-rectification of Aerial Imagery through Orthophoto.io, Geo University
 
 #### Training and volunteering
 
