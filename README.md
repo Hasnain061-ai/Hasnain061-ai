@@ -26,7 +26,7 @@ A portal for NDMA that shows how heat in Pakistan has changed since 1980, and wh
 
 A portal for NDMA that shows how acidity, heat and oxygen in Pakistan's seas have changed since the 1980s, and where they are heading by 2050.
 
-[![Ocean Intelligence: annual mean surface pH across Pakistan's Exclusive Economic Zone, 2024](ocean-intelligence.webp)](https://hasnain061-ai.github.io/#ocean-intelligence)
+[![Ocean Intelligence: sea-surface temperature trend per decade across Pakistan's Exclusive Economic Zone, 1982-2025](ocean-intelligence.webp)](https://hasnain061-ai.github.io/#ocean-intelligence)
 
 - Surface pH in Pakistan's EEZ fell from 8.08 (1985) to 8.02 (2024), about 16% more acidity
 - The sea has warmed by 1.0 to 1.3 °C since 1982; marine heatwave days rose from about 23 to about 100 a year
