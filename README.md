@@ -6,7 +6,9 @@
 
 ---
 
-#### Featured: Heatwave Intelligence
+#### Featured portals
+
+##### Heatwave Intelligence
 
 A portal for NDMA that shows how heat in Pakistan has changed since 1980, and which districts face a heatwave in the next seven days.
 
@@ -18,12 +20,26 @@ A portal for NDMA that shows how heat in Pakistan has changed since 1980, and wh
 - 7-day outlook from ECMWF, bias-corrected to 111 PMD stations, with Alert and Severe districts
 - A chat assistant in English or Roman Urdu: every number comes from a data tool, and the answer is drawn on the map
 
+**Demo video:** [watch on LinkedIn](https://lnkd.in/p/dy69fhmt) · **Screens and details:** [heatwave-intelligence-showcase](https://github.com/Hasnain061-ai/heatwave-intelligence-showcase)
+
+##### Ocean Intelligence
+
+A portal for NDMA that shows how acidity, heat and oxygen in Pakistan's seas have changed since the 1980s, and where they are heading by 2050.
+
+[![Ocean Intelligence: annual mean surface pH across Pakistan's Exclusive Economic Zone, 2024](ocean-intelligence.webp)](https://hasnain061-ai.github.io/#ocean-intelligence)
+
+- Surface pH in Pakistan's EEZ fell from 8.08 (1985) to 8.02 (2024), about 16% more acidity
+- The sea has warmed by 1.0 to 1.3 °C since 1982; marine heatwave days rose from about 23 to about 100 a year
+- 24% of the Sindh shelf floor below 2 mg/L of oxygen in the southwest monsoon
+- Outlook to 2050 under low and high emissions, compare views, trends, and a chat assistant in English or Roman Urdu
+
+**Demo video:** [watch on LinkedIn](https://lnkd.in/p/dcSiaMx6) · **Screens and details:** [ocean-intelligence-showcase](https://github.com/Hasnain061-ai/ocean-intelligence-showcase)
+
 #### In progress
 
 - **NDMA Cloud-based Early Warning System**: forecasts from seven models, flood monitoring from Sentinel-1 radar and optical imagery, drought monitoring for 160 districts, crop water outlook and river discharge on one map
-- **Pakistan Ocean Climate Portal**: ocean acidification, warming, oxygen and fisheries in Pakistan's EEZ, 1982–2025 with an outlook to 2050
 
-The portals' code belongs to NDMA and is not public.
+The portals' code belongs to NDMA and is not public. To ask about code or data, email ranahasnain061@gmail.com.
 
 **More Geo-AI projects:** Flood Inundation Monitoring portal (NDMA, AI agent), Drought Monitoring portal (PMD, AI agent), Crop Water Requirement portal (NDMA), Coastal Hazard portal (NDMA), real-estate site selection with machine learning, network analysis for an Ohio county and for Germany in Python.
 
